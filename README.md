@@ -1,7 +1,7 @@
 # 🚀 Social Browser
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Version-26.05.01-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Version-26.05.13-blue.svg" alt="Version">
   <img src="https://img.shields.io/badge/Private License-red.svg" alt="no-License">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Mac-orange.svg" alt="Platform">
 </div>
